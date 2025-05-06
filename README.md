@@ -1,4 +1,5 @@
-#Estrutura de Repetição
+##Estrutura de Repetição
+
 Pesquisa de Opinião sobre o Festival Universitário
 
 Crie uma função chamada pesquisaSatisfacao() que irá realizar uma pesquisa com 10 participantes. Para cada participante, o programa deverá:
